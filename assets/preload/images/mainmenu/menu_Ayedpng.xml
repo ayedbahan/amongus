@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_Ayedpng.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_Ayed0000" x="0" y="0" width="472" height="497" frameX="0" frameY="0" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0001" x="472" y="0" width="444" height="472" frameX="-28" frameY="-166" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0002" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0003" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0004" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0005" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0006" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0007" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0008" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0009" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0010" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0011" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0012" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0013" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0014" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0015" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+	<SubTexture name="menu_Ayed0016" x="0" y="497" width="414" height="442" frameX="-57" frameY="-135" frameWidth="472" frameHeight="638"/>
+</TextureAtlas>

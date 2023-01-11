@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_BF.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_BF0000" x="0" y="0" width="414" height="389" frameX="0" frameY="-2" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0001" x="0" y="0" width="414" height="389" frameX="0" frameY="-2" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0002" x="414" y="0" width="378" height="391" frameX="-34" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0003" x="414" y="0" width="378" height="391" frameX="-34" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0004" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0005" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0006" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0007" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0008" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0009" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0010" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0011" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0012" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0013" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0014" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0015" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0016" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0017" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0018" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0019" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0020" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0021" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0022" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+	<SubTexture name="menu_BF0023" x="0" y="391" width="377" height="391" frameX="-35" frameY="0" frameWidth="414" frameHeight="391"/>
+</TextureAtlas>
